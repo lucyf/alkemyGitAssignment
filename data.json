@@ -1,4 +1,8 @@
-    {
+[{
     "title":"List",
     "body":"toilete paper"
-    }
+},
+{
+    "product":"Notebook",
+    "price": 1500
+}]
