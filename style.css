@@ -7,7 +7,6 @@ body{
 h1{
     color: blue;
 }
-<<<<<<< HEAD
 div{
     padding: 1rem;
     align-items: center;
@@ -22,9 +21,8 @@ button{
     background-color: black;
     color: white;
     border:thin;
-=======
+}
 
 .teamName {
     font-size: 30px;
->>>>>>> 3b5f91c84856c159eaf5eadf5579433b4a6d38b2
 }
